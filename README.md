@@ -1,8 +1,8 @@
-#The Ultimate Modular FPS Character Controller
+# The Ultimate Modular FPS Character Controller
 Is a rigidbody based solution for a FPS character controller in Unity.
 The aim is to be a very feature rich easily modular character controller which is easy to use and fulfills a load of different use cases.
 
-##Current Features/Modules
+## Current Features/Modules
 All of these can be enabled/disabled for the desired control.
 -Running
 -Walking
@@ -10,7 +10,7 @@ All of these can be enabled/disabled for the desired control.
 -Crouching
 -Prone
 
-##Planned Features
+## Planned Features
 In no particular order
 -Leaning
 -Step Height
